@@ -14,10 +14,6 @@
  *  along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-/***********************************************************************
- * Copyright 1999-2006 Altibase Corp. All rights reserved.
- **********************************************************************/
-
 #ifndef _O_ALTIBASE_SQL_CLI_H_
 #define _O_ALTIBASE_SQL_CLI_H_ 1
 
